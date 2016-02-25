@@ -31,7 +31,7 @@ namespace VLC_Shell_Purge
             else if (radioButton4.Checked)
                 myThingToDo = ThingDoer.ThingToDo.Undo;
 
-            //try
+            try
             {
                 if (!checkBox3.Checked)
                     MessageBox.Show("A backup of your classes registry will be at \"C:\\temp\\undo_vlc_shell_purge.reg\".\n" +
@@ -47,11 +47,11 @@ namespace VLC_Shell_Purge
                 MessageBox.Show("Thing done successfully.", "Success!", MessageBoxButtons.OK, MessageBoxIcon.Information); //otherwise, an exception would have been thrown
                 this.Close();
             }
-            //catch (Exception ex)
-            //{
-            //    MessageBox.Show(ex.Message, "Something went wrong.", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            //    this.Close();
-            //}
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Something went wrong.", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                this.Close();
+            }
         }
     }
 }
