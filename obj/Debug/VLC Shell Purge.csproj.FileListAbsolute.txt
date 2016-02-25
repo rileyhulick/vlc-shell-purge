@@ -1,0 +1,9 @@
+C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\bin\Debug\VLC Shell Purge.exe.config
+C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\bin\Debug\VLC Shell Purge.exe
+C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\bin\Debug\VLC Shell Purge.pdb
+C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\obj\Debug\VLC Shell Purge.csprojResolveAssemblyReference.cache
+C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\obj\Debug\VLC_Shell_Purge.Form1.resources
+C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\obj\Debug\VLC_Shell_Purge.Properties.Resources.resources
+C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\obj\Debug\VLC Shell Purge.csproj.GenerateResource.Cache
+C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\obj\Debug\VLC Shell Purge.exe
+C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\obj\Debug\VLC Shell Purge.pdb
