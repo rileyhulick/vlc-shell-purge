@@ -6,3 +6,4 @@ C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\obj\Release\VLC_Shell_
 C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\obj\Release\VLC Shell Purge.csproj.GenerateResource.Cache
 C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\obj\Release\VLC Shell Purge.exe
 C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\obj\Release\VLC Shell Purge.pdb
+C:\Users\Master\Workspace\VLC Shell Purge\VLC Shell Purge\obj\Release\VLC Shell Purge.csprojResolveAssemblyReference.cache
